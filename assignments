@@ -1,0 +1,38 @@
+Enter file contents here
+
+
+
+//Assignmnet 1
+public class Ass1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+ int val3,val1 = 5;
+ float val2 =  10.0f;
+ val3= (int)(val1+val2);
+ System.out.println("the sum of two integers is " + val3);
+ 
+ //Assignment 2 
+ 
+ int a,b=4,c;
+ System.out.println("value of b is " + b);
+ 
+ 
+ //Assignmnet 3
+ 
+// int m = abc;
+ //int p = !2;
+ // we cannot store string variables in integer datatype 
+ 
+ 
+ 
+ //Assignment 4
+ 
+ int x=5,y=10;
+ System.out.println( "the value of 1st expression is = " + (x + y * 2)); 
+ System.out.println("value of 2nd expression is =  " + (x - y + 2)); 
+ System.out.println("value of 3rd expression is = "+ ((x+y) * 2)); 
+ System.out.println("value of 4th expression is = " + (y % x));
+	}
+	
+}
